@@ -10,5 +10,6 @@ Assignment Objectives:
 
 ![image](https://github.com/bec-in-tech/GEOG486-Flow-Mapping/assets/120440399/e5df4e5d-79f6-4b9f-9565-6a77bc4e3599)
 
-![image](https://github.com/bec-in-tech/GEOG486-Flow-Mapping/assets/120440399/db6f65d2-b5d9-4db4-a2dc-105853380ce0)
+![image](https://github.com/bec-in-tech/GEOG486-Flow-Mapping/assets/120440399/c0d6bfe2-8f34-44b7-8585-b140793e18b5)
+
 
