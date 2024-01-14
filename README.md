@@ -5,7 +5,7 @@ Assignment Objectives:
 2. Select and customize map projections based on each map’s purpose and overall design.
 3. Use appropriate visual variables to symbolize background data and flowlines.
 4. Create well-designed layouts with appropriate legends and text elements.
-
+<br><br>
 <b> Map 1</b>
 The purpose of Map 1 was to visualize flight paths based on length. All flight paths arrive or depart from London Heathrow Airport and have worldwide destinations. I sought a projection that minimizes distortions to both area and distance, so I chose to utilize the Winkel Tripel projection for this first assignment and customized the standard parallel from 60 to 50 in an attempt to decrease some of the distortion affecting South America and North America. This also reduced the overall “compression effect" on the entire map. The Winkel Tripel attempts to minimize three kinds of distortions including area, direction, and distance which can make it a good choice for visualizing f light paths with destinations in different regions of the world. This projection is also well suited for world maps and provides an adequate representation of the whole world. Although it does display moderate distortion (specifically in polar regions), it minimizes distortions in middle latitudes including North America, Europe, Asia and parts of Africa, South America, and Australia. These regions are where we can see flight paths beginning or ending from. The visual differences in length remain distinct between flight paths; however, it is important to note that distance distortion does still occur. Thus, the Winkel Tripel projection should not be used if distance accuracy is the main priority of the map. <br>
 
