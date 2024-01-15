@@ -1,4 +1,4 @@
-# GEOG486: Flow-Mapping and Projections
+# GEOG486: Flow Maps and Projections
 
 <b>Assignment Objectives:</b>
 1. Create three advertisements for London Heathrow Airport (LHR) using flight origin-destination data.
